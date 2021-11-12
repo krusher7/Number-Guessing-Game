@@ -1,0 +1,13 @@
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.Properties.Resources.resources
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.GenerateResource.cache
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe.config
+D:\Coding\C#\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.exe
+D:\Coding\C#\Number_Guessing_Game\bin\Debug\Number_Guessing_Game.pdb
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.Form1.resources
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.Form2.resources
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.Form3.resources
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.Form4.resources
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.exe
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.pdb
+D:\Coding\C#\Number_Guessing_Game\obj\Debug\Number_Guessing_Game.csproj.AssemblyReference.cache
